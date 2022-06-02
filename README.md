@@ -29,4 +29,4 @@ https://visionary-sprinkles-611dac.netlify.app/
   
 https://user-images.githubusercontent.com/96066976/171487733-0e253d20-c1ef-4548-9132-0654e6a0b059.mp4
 
-# Happy Coading !!✨
+# Happy Coding !!✨
